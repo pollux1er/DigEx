@@ -3,9 +3,8 @@
 <head>
 	<meta charset="UTF-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>DIGITAL EXPERIENCE - Coming Soon </title>
-    <meta name="description" content="DIGITAL EXPERIENCE - ">
-    <meta name="author" content="pixiefy">
+	<title>Digital Experience | Advertising Technology and Digital Marketing Company</title>
+    <meta name="description" content="Digital Experience is an advertising technology and marketing company that delivers end-to-end digital solutions for businesses. Specializing in strategy, design, content, UX, branding, BulkSMS, VAS">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 	
 	<!-- Google Font -->
@@ -85,13 +84,14 @@
 			</div>
 		</div>
 		<div class="footer-copyright position_footer align-left">
-        	<p class="futura-style">&copy; DIGEX 2018, All right reserved</p>
+        	<p class="futura-style">&copy; Digital Experience 2018, All right reserved</p>
         </div>
 		<div class="stay_connent_with_social align-right">
 			<ul>
 				<!--<li><a href="https://twitter.com/pixiefy" class="tw_social"  title=""><i class="fa fa-twitter" aria-hidden="true"></i></a></li>-->
+				<li><a target="_blank" href="https://www.instagram.com/dig.ex/" class="in_social"  title=""><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
 				<li><a target="_blank" href="https://www.facebook.com/DigitalExperienceTech/" class="fb_social"  title=""><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-				<li><a target="_blank" href="https://www.linkedin.com/company/digital-experience-tech/" class="in_social"  title=""><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+				<li><a target="_blank" href="https://www.linkedin.com/company/digitalexperience/" class="in_social"  title=""><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
 				<!--<li><a href="https://plus.google.com/u/1/110725603752835072243" class="gp_social"  title=""><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>-->
 			</ul>
 		</div>
